@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ohad-asos/static/css/main.cc965016.chunk.css",
+    "main.js": "/ohad-asos/static/js/main.5242a545.chunk.js",
+    "main.js.map": "/ohad-asos/static/js/main.5242a545.chunk.js.map",
+    "runtime-main.js": "/ohad-asos/static/js/runtime-main.1f114f9f.js",
+    "runtime-main.js.map": "/ohad-asos/static/js/runtime-main.1f114f9f.js.map",
+    "static/js/2.14e78893.chunk.js": "/ohad-asos/static/js/2.14e78893.chunk.js",
+    "static/js/2.14e78893.chunk.js.map": "/ohad-asos/static/js/2.14e78893.chunk.js.map",
+    "static/js/3.bba01506.chunk.js": "/ohad-asos/static/js/3.bba01506.chunk.js",
+    "static/js/3.bba01506.chunk.js.map": "/ohad-asos/static/js/3.bba01506.chunk.js.map",
+    "index.html": "/ohad-asos/index.html",
+    "static/css/main.cc965016.chunk.css.map": "/ohad-asos/static/css/main.cc965016.chunk.css.map",
+    "static/js/2.14e78893.chunk.js.LICENSE.txt": "/ohad-asos/static/js/2.14e78893.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f114f9f.js",
+    "static/js/2.14e78893.chunk.js",
+    "static/css/main.cc965016.chunk.css",
+    "static/js/main.5242a545.chunk.js"
+  ]
+}
